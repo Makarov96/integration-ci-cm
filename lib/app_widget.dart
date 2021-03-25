@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Provider.of<Color>(context),
       ),
-      title: 'Material App',
+      title: 'Material App Prod',
       home: HomeUser(),
     );
   }
